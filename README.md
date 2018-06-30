@@ -1,16 +1,14 @@
-# Pixel Art Maker Project
+# Pixel Art Maker
 
-## Table of Contents
+## How to run?
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* Open the `index.html` file in your browser of choice.
 
-## Instructions
+## How to play?
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* Enter the grid Height and Width in the provided fields.
+  * The size should be greater than 0 and smaller than you screen size.
+* Click on "Submit" to create an empty grid.
+* Select a color using the color picker.
+* Click on a grid cell to paint it with the selected color.
+* Click on "Submit" again to reset the grid.
