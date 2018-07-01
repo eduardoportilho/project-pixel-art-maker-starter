@@ -7,7 +7,7 @@
 ## How to play?
 
 * Enter the grid Height and Width in the provided fields.
-  * The size should be greater than 0 and smaller than you screen size.
+  * The size should be greater than 0 and smaller or equal to 25.
 * Click on "Submit" to create an empty grid.
 * Select a color using the color picker.
 * Click on a grid cell to paint it with the selected color.
